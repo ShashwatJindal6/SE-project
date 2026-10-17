@@ -171,10 +171,8 @@ Firebase Authentication is used for:
 
 ## Team Members
 
-- Ujwal
-- Anshitha
-- Bhavya
-- Yashwantta
+- Shashwat Jindal
+- Utkarsh Patel
 
 ## Future Improvements
 
