@@ -1,0 +1,46 @@
+{
+  "name": "internship",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "firebase": "^12.19.0",
+    "mongoose": "^9.6.3",
+    "nodemon": "^3.1.14",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "vite": "^8.0.12"
+  },
+  "description": "InternFlow is a modern, premium SaaS platform designed to help students and job seekers track their internship and job applications with a highly polished, interactive user interface. Built with a stunning cosmic-inspired dark/glassmorphic aesthetic, the application provides a centralized hub to monitor application statuses, manage interviews, and track personal career growth.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujwal-224/Internship-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujwal-224/Internship-Tracker/issues"
+  },
+  "homepage": "https://github.com/ujwal-224/Internship-Tracker#readme"
+}
