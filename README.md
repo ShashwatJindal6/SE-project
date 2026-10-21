@@ -1,12 +1,8 @@
-# Internflow
+# InternWin
 
-## Interflow — Internship & Job Application Tracker
+## InternWin — Internship & Job Application Tracker
 
 A modern full-stack web application that helps students manage and track internship and job applications efficiently in one centralized platform.
-
-## Live Demo
-
-- Live Website:http://internship-tracker-9npr.vercel.app/#/
 
 ## About The Project
 
